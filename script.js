@@ -68,14 +68,6 @@ module.exports = new Script({
         }
     }
     
-    const express = require('express');
-const SmoochCore = require('smooch-core');
-const smoochApi = new SmoochCore({
-    keyId: 'some-key',
-    secret: 'some-secret',
-    scope: 'app'
-});
-
 
     if (smoochPayload === 'TELL_ME_JOKE') {
         smoochApi.conversations.sendMessage(userId, {
