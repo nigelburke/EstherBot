@@ -3,7 +3,7 @@
     "HELLO": "Hey, thanks for your interest! Do you want to tell Nigel that you're talking to his bot? %[Tell him](postback:twitter)",
     "TELL HIM": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
     "I LOVE YOU": "Awh, shucks! I love you too!",
-    "buy": "Ok great $[25](25.00)",
+    "BUY": "Ok great $[25](25.00)",
     "SIGN UP": "We'd love to enrole you on our course: %[Sign up](http://rusdens.com)",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
