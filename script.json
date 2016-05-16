@@ -7,6 +7,7 @@
     "COMPANY": "Thanks for your feedback\nI’m Robyn, responsible for individual accounts\n![esther](http://rusdens.com/wp-content/uploads/2016/04/office-48-128.png)\nWant to know more about bots or learn about Esther? %[I'm here for the bot](postback:buy) %[Learn about Esther](postback:TELL_ME_JOKE) %[One random fact!](postback:random_fact)",
     "BUY": "Ok great $[1](1.00)",
     "HERE_FOR_THE_BOT":"Well we all love the bot: %[Sign up](http://rusdens.com)",
+    "TRANSFER":I'll pass you on to my collegue[chat](http://bit.ly/rusdens_chat),
     "SIGN UP": "We'd love to enrole you on our course: %[Sign up](http://rusdens.com)",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
