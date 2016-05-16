@@ -6,7 +6,7 @@
     "EMPLOYEE": "Thanks for your feedback\nI’m Julie, responsible for individual accounts\n![esther](http://rusdens.com/wp-content/uploads/2016/04/office-48-128.png)\nWant to know more about bots or learn about Esther? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Esther](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
     "COMPANY": "Thanks for your feedback\nI’m Robyn, responsible for individual accounts\n![esther](http://rusdens.com/wp-content/uploads/2016/04/office-48-128.png)\nWant to know more about bots or learn about Esther? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Esther](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
     "BUY": "Ok great $[25](25.00)",
-    "here_for_the_bot":"Well we all love the bot: %[Sign up](http://rusdens.com)",
+    "HERE_FOR_THE_BOT":"Well we all love the bot: %[Sign up](http://rusdens.com)",
     "SIGN UP": "We'd love to enrole you on our course: %[Sign up](http://rusdens.com)",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
